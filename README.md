@@ -8,3 +8,10 @@ The system consists of two chat servers connected together. Each chat server can
 - Two users connected to the same server chatting with each other. In this case the message will be directed through their local chat server, no routing is needed.
 - Two users connected to two different servers chatting with each other. In this case, the server of the initiator client must forward the message to the second chat server.
 Moreover you can check report for specific details about the project
+
+###Team:
+ - [Ahmed Kamel](https://github.com/kammola)
+ - [Ahmed Sagheer](https://github.com/AhmadElsagheer)
+ - [Ahmed Soliman](https://github.com/AhmedSoliman7)
+ - [Mostafa Abdallah](https://github.com/mostafa-abdullah)
+ - [Youssuf Radi](https://github.com/YoussufRadi)
