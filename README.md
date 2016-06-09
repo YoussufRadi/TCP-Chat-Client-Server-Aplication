@@ -14,4 +14,4 @@ Moreover you can check report for specific details about the project
  - [Ahmed Sagheer](https://github.com/AhmadElsagheer)
  - [Ahmed Soliman](https://github.com/AhmedSoliman7)
  - [Mostafa Abdallah](https://github.com/mostafa-abdullah)
- - [Youssuf Radi](https://github.com/YoussufRadi)
+ - [Youssuf Radi](http://youssufradi.github.io/)
